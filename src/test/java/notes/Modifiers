@@ -1,0 +1,12 @@
+Modifiers : It is used to modify the access of a variable, method, class etc.,
+
+Types :
+    * Access Modifiers
+        # private (Access - Within class)
+        # public (Access - Anywhere)
+        # protected (Access - To only its derived class)
+        # default (Access - Inside same package)
+    * Non Access Modifiers
+        # static (V, M)
+        # final (V, M, C)
+        # abstract (V, C)

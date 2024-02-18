@@ -1,0 +1,14 @@
+Folder Name = always small letter
+
+Class Name/File Name = pascal case
+    eg., MyNameIsSabari, IAmWorkingOnIntellij
+
+Method Name = camel case
+    eg., myNameIsSabari, runningTheJavaProgram
+
+Variable Name = camel case
+    eg., demoSite, practiceCount
+
+    Local Variable --> camel case --> eg., programmingLanguage
+    Global Variable --> pascal case --> eg., ProgrammingLanguage
+    Global Variable (Final Variables - value cannot be change) - eg., PI = 3.14 --> PROGRAMMING_VALUE (snake case in full capital)

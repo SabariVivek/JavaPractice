@@ -1,0 +1,14 @@
+Class --> Car, House
+Object --> Key
+
+----------------------------------------------------------------------------------------------------------------
+
+PILLAR OF OOPS :
+
+Abstraction --> ATM (Withdrawal, Deposit), Selenium WebDriver (Click, SendKeys, Maximize)
+Encapsulation --> Class (Variables & Methods & Constructors)
+Polymorphism --> Overloading (Compile Time) & Overriding (Run Time)
+Inheritance --> Parent & Multiple Child Class
+Interface --> When you don't know the functionality, you can go with Interface (Example --> Selenium WebDriver)
+
+----------------------------------------------------------------------------------------------------------------

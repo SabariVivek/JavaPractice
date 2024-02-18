@@ -1,0 +1,8 @@
+Primitive Data Types --> Wrapper class
+
+int --> Integer
+String --> String
+float --> Float
+double --> Double
+char --> Character
+bool --> Boolean
